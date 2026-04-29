@@ -6,6 +6,6 @@
     <h1 style="color: black; font-size: 60px;" align="center">WELCOME TO MY WEBAPP </h1>
 	<h2 style="color: red; font-size: 50px;" align="center">HEY WE DEPLOYED OUR APP USING JENKINS and nexus </h2>
 		<h3 style="color: blue; font-size: 30px;" align="center">Version 1 deployment</h3>
-    <h2 style="color: green; font-size: 50px;" align="center">Project 1 successfully completed on 22/04/2026 WED </h2>
+    <h2 style="color: green; font-size: 50px;" align="center">Project 1 successfully completed on 29/04/2026 WED </h2>
 </body>
 </html> 
